@@ -1,1 +1,1 @@
-# Modelo-De-Regress-o-Linear-Para-Area-De-marketing
+# Modelo-De-Regressão-o-Linear-Para-Area-De-marketing
